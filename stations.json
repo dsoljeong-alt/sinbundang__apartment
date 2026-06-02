@@ -1,0 +1,344 @@
+{
+  "stations": [
+    {
+      "id": 1,
+      "name": "광교산",
+      "nameEn": "Gwanggyosan",
+      "commute": {
+        "car": "15 분",
+        "public": "35 분"
+      },
+      "apartments": [
+        {
+          "name": "광교산 아이파크",
+          "address": "경기 수원시 영통구 이의동",
+          "reason": "광교산역과 가장 가까운 대단지"
+        },
+        {
+          "name": "광교 힐스테이트",
+          "address": "경기 수원시 영통구 이의동",
+          "reason": "광교신도시 대표 단지"
+        },
+        {
+          "name": "자이 e편한세상",
+          "address": "경기 수원시 영통구 이의동",
+          "reason": "광교신도시 인기 단지"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "광교중앙",
+      "nameEn": "Gwanggyo Central",
+      "commute": {
+        "car": "12 분",
+        "public": "30 분"
+      },
+      "apartments": [
+        {
+          "name": "광교 중앙공원 자이",
+          "address": "경기 수원시 영통구 이의동",
+          "reason": "광교중앙역 인접, 중앙공원 조망"
+        },
+        {
+          "name": "광교 호수공원 자이",
+          "address": "경기 수원시 영통구 이의동",
+          "reason": "호수공원 인근 인기 단지"
+        },
+        {
+          "name": "광교 SK View",
+          "address": "경기 수원시 영통구 이의동",
+          "reason": "광교신도시 프리미엄 단지"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "하광교",
+      "nameEn": "Hagwanggyo",
+      "commute": {
+        "car": "18 분",
+        "public": "40 분"
+      },
+      "apartments": [
+        {
+          "name": "광교 더샵",
+          "address": "경기 수원시 영통구 하동",
+          "reason": "하광교역 인접 대단지"
+        },
+        {
+          "name": "광교 푸르지오",
+          "address": "경기 수원시 영통구 하동",
+          "reason": "하동지구 대표 단지"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "상현",
+      "nameEn": "Sanghyeon",
+      "commute": {
+        "car": "25 분",
+        "public": "50 분"
+      },
+      "apartments": [
+        {
+          "name": "상현역 푸르지오",
+          "address": "경기 용인시 수지구 상현동",
+          "reason": "상현역 바로 인접"
+        },
+        {
+          "name": "상현 힐스테이트",
+          "address": "경기 용인시 수지구 상현동",
+          "reason": "상현동 대단지"
+        },
+        {
+          "name": "풍덕천 두산위브",
+          "address": "경기 용인시 수지구 상현동",
+          "reason": "상현동 인기 단지"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "수지중앙",
+      "nameEn": "Suji Central",
+      "commute": {
+        "car": "28 분",
+        "public": "55 분"
+      },
+      "apartments": [
+        {
+          "name": "수지 자이",
+          "address": "경기 용인시 수지구 풍덕천동",
+          "reason": "수지중앙역 인접"
+        },
+        {
+          "name": "풍덕천 푸르지오",
+          "address": "경기 용인시 수지구 풍덕천동",
+          "reason": "풍덕천동 대표 단지"
+        },
+        {
+          "name": "수지 힐스테이트",
+          "address": "경기 용인시 수지구 풍덕천동",
+          "reason": "수지지역 대단지"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "성복",
+      "nameEn": "Seongbok",
+      "commute": {
+        "car": "30 분",
+        "public": "58 분"
+      },
+      "apartments": [
+        {
+          "name": "성복 푸르지오",
+          "address": "경기 용인시 수지구 성복동",
+          "reason": "성복역 인접 대단지"
+        },
+        {
+          "name": "성복 자이",
+          "address": "경기 용인시 수지구 성복동",
+          "reason": "성복동 대표 단지"
+        },
+        {
+          "name": "성복 힐스테이트",
+          "address": "경기 용인시 수지구 성복동",
+          "reason": "성복동 인기 단지"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "풍덕천",
+      "nameEn": "Pungdeokcheon",
+      "commute": {
+        "car": "32 분",
+        "public": "60 분"
+      },
+      "apartments": [
+        {
+          "name": "풍덕천 두산위브",
+          "address": "경기 용인시 수지구 풍덕천동",
+          "reason": "풍덕천역 인접"
+        },
+        {
+          "name": "풍덕천 자이",
+          "address": "경기 용인시 수지구 풍덕천동",
+          "reason": "풍덕천동 대단지"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "미금",
+      "nameEn": "Migeum",
+      "commute": {
+        "car": "35 분",
+        "public": "65 분"
+      },
+      "apartments": [
+        {
+          "name": "미금역 동원로얄듀크",
+          "address": "경기 성남시 분당구 금곡동",
+          "reason": "미금역 바로 인접"
+        },
+        {
+          "name": "금곡동 푸르지오",
+          "address": "경기 성남시 분당구 금곡동",
+          "reason": "금곡동 대표 단지"
+        },
+        {
+          "name": "미금 자이",
+          "address": "경기 성남시 분당구 금곡동",
+          "reason": "미금지역 인기 단지"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "정자",
+      "nameEn": "Jeongja",
+      "commute": {
+        "car": "38 분",
+        "public": "70 분"
+      },
+      "apartments": [
+        {
+          "name": "정자역 푸르지오",
+          "address": "경기 성남시 분당구 정자동",
+          "reason": "정자역 인접 대단지"
+        },
+        {
+          "name": "정자 힐스테이트",
+          "address": "경기 성남시 분당구 정자동",
+          "reason": "정자동 대표 단지"
+        },
+        {
+          "name": "분당 서울대병원 푸르지오",
+          "address": "경기 성남시 분당구 구미동",
+          "reason": "분당 서울대병원 인근"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "수내",
+      "nameEn": "Sunae",
+      "commute": {
+        "car": "40 분",
+        "public": "72 분"
+      },
+      "apartments": [
+        {
+          "name": "수내역 파크자이",
+          "address": "경기 성남시 분당구 수내동",
+          "reason": "수내역 바로 인접"
+        },
+        {
+          "name": "수내 푸르지오",
+          "address": "경기 성남시 분당구 수내동",
+          "reason": "수내동 대표 단지"
+        },
+        {
+          "name": "수내 자이",
+          "address": "경기 성남시 분당구 수내동",
+          "reason": "수내동 인기 단지"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "판교",
+      "nameEn": "Pangyo",
+      "commute": {
+        "car": "45 분",
+        "public": "80 분"
+      },
+      "apartments": [
+        {
+          "name": "판교 푸르지오",
+          "address": "경기 성남시 분당구 삼평동",
+          "reason": "판교역 인접 대단지"
+        },
+        {
+          "name": "판교 테크노밸리 자이",
+          "address": "경기 성남시 분당구 삼평동",
+          "reason": "판교테크노밸리 인근"
+        },
+        {
+          "name": "백현동 푸르지오",
+          "address": "경기 성남시 분당구 백현동",
+          "reason": "판교역 인근 인기 단지"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "삼평",
+      "nameEn": "Sampyeong",
+      "commute": {
+        "car": "48 분",
+        "public": "85 분"
+      },
+      "apartments": [
+        {
+          "name": "삼평동 푸르지오",
+          "address": "경기 성남시 분당구 삼평동",
+          "reason": "삼평역 인접"
+        },
+        {
+          "name": "판교 알파리움",
+          "address": "경기 성남시 분당구 삼평동",
+          "reason": "판교테크노밸리 대표 단지"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "보라",
+      "nameEn": "Bora",
+      "commute": {
+        "car": "42 분",
+        "public": "75 분"
+      },
+      "apartments": [
+        {
+          "name": "보라동 푸르지오",
+          "address": "경기 성남시 분당구 보평동",
+          "reason": "보라역 인접 대단지"
+        },
+        {
+          "name": "보평동 자이",
+          "address": "경기 성남시 분당구 보평동",
+          "reason": "보평동 대표 단지"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "신사",
+      "nameEn": "Sinsa",
+      "commute": {
+        "car": "55 분",
+        "public": "95 분"
+      },
+      "apartments": [
+        {
+          "name": "신사동 힐스테이트",
+          "address": "서울 강남구 신사동",
+          "reason": "신사역 인접 (개통예정)"
+        },
+        {
+          "name": "신사동 푸르지오",
+          "address": "서울 강남구 신사동",
+          "reason": "신사동 대표 단지 (개통예정)"
+        }
+      ],
+      "status": "개통예정"
+    }
+  ]
+}
